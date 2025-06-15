@@ -1,0 +1,399 @@
+id,products_data_id,rating,review,review_date,data_cadastro
+1,1,Avaliação 4 de 5,"As tintas duram pouco, mas acredito que seja um problema da hp e não só do produto em si.",13 jun. 2025,2025-06-15 04:49:20
+2,1,Avaliação 5 de 5,"Muito bom,vou voltar a comprar de novo.",29 mai. 2025,2025-06-15 04:49:22
+3,1,Avaliação 5 de 5,Já sou cliente faz tempo.,28 mai. 2025,2025-06-15 04:49:24
+4,1,Avaliação 5 de 5,Excelente!.,16 mai. 2025,2025-06-15 04:49:26
+5,1,Avaliação 5 de 5,Excelente produto.,28 abr. 2025,2025-06-15 04:49:28
+6,1,Avaliação 5 de 5,Funcionando bem.,25 abr. 2025,2025-06-15 04:49:31
+7,1,Avaliação 5 de 5,"Comprei para guardar, mas verifiquei que todos são genuínos. Estou avaliando baseado nos cartuchos serem originais. Pois ainda não utilizei nenhum deles.",21 abr. 2025,2025-06-15 04:49:33
+8,1,Avaliação 5 de 5,Bom material.,14 mar. 2025,2025-06-15 04:49:35
+9,1,Avaliação 5 de 5,Excelente.,16 dez. 2024,2025-06-15 04:49:37
+10,1,Avaliação 5 de 5,Bom.,19 nov. 2024,2025-06-15 04:49:39
+11,2,Avaliação 5 de 5,A. Melhor marca que existe hp.,15 out. 2024,2025-06-15 04:49:49
+12,2,Avaliação 5 de 5,Preço justo e qualidade superior.,17 set. 2024,2025-06-15 04:49:51
+13,2,Avaliação 5 de 5,Excelente produto original.,28 mai. 2025,2025-06-15 04:49:53
+14,2,Avaliação 5 de 5,Muito bom.,02 mai. 2025,2025-06-15 04:49:56
+15,2,Avaliação 5 de 5,"Muito bom, gostei!.",16 abr. 2025,2025-06-15 04:49:58
+16,2,Avaliação 5 de 5,Cartucho original é originalmente excelente.,08 mar. 2025,2025-06-15 04:50:00
+17,2,Avaliação 5 de 5,Muito bom.,08 mar. 2025,2025-06-15 04:50:02
+18,2,Avaliação 5 de 5,Fiz no máximo 20 impressões em modo econômico e a tinta acabou. Não compro mais.,19 fev. 2025,2025-06-15 04:50:04
+19,2,Avaliação 5 de 5,Ótimo.,19 fev. 2025,2025-06-15 04:50:06
+20,2,Avaliação 5 de 5,Boa compra.,05 fev. 2025,2025-06-15 04:50:08
+21,3,Avaliação 4 de 5,"As tintas duram pouco, mas acredito que seja um problema da hp e não só do produto em si.",13 jun. 2025,2025-06-15 04:50:19
+22,3,Avaliação 5 de 5,"Muito bom,vou voltar a comprar de novo.",29 mai. 2025,2025-06-15 04:50:21
+23,3,Avaliação 5 de 5,Já sou cliente faz tempo.,28 mai. 2025,2025-06-15 04:50:23
+24,3,Avaliação 5 de 5,Excelente!.,16 mai. 2025,2025-06-15 04:50:25
+25,3,Avaliação 5 de 5,Excelente produto.,28 abr. 2025,2025-06-15 04:50:27
+26,3,Avaliação 5 de 5,Funcionando bem.,25 abr. 2025,2025-06-15 04:50:29
+27,3,Avaliação 5 de 5,"Comprei para guardar, mas verifiquei que todos são genuínos. Estou avaliando baseado nos cartuchos serem originais. Pois ainda não utilizei nenhum deles.",21 abr. 2025,2025-06-15 04:50:31
+28,3,Avaliação 5 de 5,Bom material.,14 mar. 2025,2025-06-15 04:50:33
+29,3,Avaliação 5 de 5,Excelente.,16 dez. 2024,2025-06-15 04:50:35
+30,3,Avaliação 5 de 5,Bom.,19 nov. 2024,2025-06-15 04:50:37
+31,4,Avaliação 5 de 5,Cartucho original é sempre a melhor opção.,04 jun. 2024,2025-06-15 04:50:48
+32,4,Avaliação 5 de 5,Muito bom sem defeitos grato.,20 mai. 2024,2025-06-15 04:50:50
+33,4,Avaliação 5 de 5,Pouca tinta.,15 jul. 2024,2025-06-15 04:50:52
+34,4,Avaliação 4 de 5,2ml é muito pouco … hp devia por mais tinta.,01 jun. 2025,2025-06-15 04:50:54
+35,4,Avaliação 5 de 5,Pena que são apenas 2ml.,26 jul. 2024,2025-06-15 04:50:57
+36,4,Avaliação 4 de 5,"Preciso de mais tempo para avaliar o produto, principalmente no quesito durabilidade.",19 jun. 2024,2025-06-15 04:50:59
+37,4,Avaliação 5 de 5,"Muito bom, produto de ótima qualidade!.",04 jun. 2024,2025-06-15 04:51:01
+38,4,Avaliação 5 de 5,Produto original.,13 mai. 2025,2025-06-15 04:51:03
+39,4,Avaliação 5 de 5,"Produto bom, só acaba muito rápido 😭.",14 jun. 2025,2025-06-15 04:51:05
+40,4,Avaliação 5 de 5,Vou testar e voltarei.,09 mai. 2025,2025-06-15 04:51:07
+41,5,Avaliação 4 de 5,"Não presta, falsificado. Acabou depois 30 cópias.",04 mar. 2025,2025-06-15 04:51:18
+42,5,Avaliação 4 de 5,Acaba rápido.,04 fev. 2025,2025-06-15 04:51:20
+43,5,Avaliação 5 de 5,"Produto de ótima qualidade, recomendo muito bom amei! 😍♥️.",25 jun. 2024,2025-06-15 04:51:22
+44,5,Avaliação 4 de 5,"Vamos ver se vai durar bastante, da ultima vez que comprei não durou muito.",28 jan. 2025,2025-06-15 04:51:24
+45,5,Avaliação 5 de 5,Produto é bom mas não dura muito.,27 jan. 2025,2025-06-15 04:51:26
+46,5,Avaliação 5 de 5,"Testei , reconheceu facilmente, imagem boa ! ok só vamos ver quanto vai durar as impressões!.",17 dez. 2024,2025-06-15 04:51:28
+47,5,Avaliação 5 de 5,Depois.,29 abr. 2025,2025-06-15 04:51:30
+48,5,Avaliação 5 de 5,Ótimo produto.,07 fev. 2025,2025-06-15 04:51:32
+49,5,Avaliação 5 de 5,"Muito bom deu tudo certo, obrigada.",31 ago. 2024,2025-06-15 04:51:34
+50,5,Avaliação 5 de 5,Só achei ruim pq não é recarregável.,10 set. 2024,2025-06-15 04:51:36
+51,6,Avaliação 5 de 5,Cartucho original é sempre a melhor opção.,04 jun. 2024,2025-06-15 04:51:47
+52,6,Avaliação 5 de 5,Muito bom sem defeitos grato.,20 mai. 2024,2025-06-15 04:51:49
+53,6,Avaliação 5 de 5,Pouca tinta.,15 jul. 2024,2025-06-15 04:51:51
+54,6,Avaliação 4 de 5,2ml é muito pouco … hp devia por mais tinta.,01 jun. 2025,2025-06-15 04:51:53
+55,6,Avaliação 5 de 5,Pena que são apenas 2ml.,26 jul. 2024,2025-06-15 04:51:55
+56,6,Avaliação 4 de 5,"Preciso de mais tempo para avaliar o produto, principalmente no quesito durabilidade.",19 jun. 2024,2025-06-15 04:51:58
+57,6,Avaliação 5 de 5,"Muito bom, produto de ótima qualidade!.",04 jun. 2024,2025-06-15 04:52:00
+58,6,Avaliação 5 de 5,Produto original.,13 mai. 2025,2025-06-15 04:52:02
+59,6,Avaliação 5 de 5,"Produto bom, só acaba muito rápido 😭.",14 jun. 2025,2025-06-15 04:52:04
+60,6,Avaliação 5 de 5,Vou testar e voltarei.,09 mai. 2025,2025-06-15 04:52:06
+61,7,Avaliação 5 de 5,"E um produto de qualidade,mas acho o cartucho muito caro pela quantidade de impressão,se eu soubesse antes teria pago mais caro em uma impressora in tank, seria mais proveitoso.",28 jul. 2024,2025-06-15 04:52:17
+62,7,Avaliação 4 de 5,"A durabilidade é pequena, principalmente se levamos em consideração em seu custo.",15 jul. 2024,2025-06-15 04:52:19
+63,7,Avaliação 5 de 5,"Eu estou muito satisfeito produto de ótima qualidade, fora o serviços do mercadolivre que são excelentes 👍.",18 set. 2024,2025-06-15 04:52:21
+64,7,Avaliação 5 de 5,Excelente.,18 ago. 2024,2025-06-15 04:52:23
+65,7,Avaliação 4 de 5,Bom porém deixa a desejar pelo tamanho se tira 20 coisa já acabou a tinta.,12 ago. 2024,2025-06-15 04:52:25
+66,7,Avaliação 5 de 5,"Excelente material, muito bom. Eu estava com um bom tempo sem usar essa impressora e o resultado foi esse na imagem. Vou comprar o cartucho colorido agora.",05 fev. 2025,2025-06-15 04:52:27
+67,7,Avaliação 5 de 5,,20 set. 2024,2025-06-15 04:52:29
+68,7,Avaliação 5 de 5,Funcionou direitinho e sem travamentos. Instalação ok. Preço ok.,09 mai. 2025,2025-06-15 04:52:31
+69,7,Avaliação 5 de 5,"Produto original, excelente.",30 set. 2024,2025-06-15 04:52:33
+70,7,Avaliação 5 de 5,Show.,15 jul. 2024,2025-06-15 04:52:35
+71,8,Avaliação 5 de 5,"Os cartuchos são originais, e pra quem reclama que imprimi poucas folhas é porque não conhece a impressora que tem. Os modelos de impressoras que recebem esses cartuchos, não atendem a demanda de muitas impressões e para imprimir o máximo possível, recomendo sempre configurar para impressão rascunho.",26 abr. 2024,2025-06-15 04:52:46
+72,8,Avaliação 4 de 5,"Qualidade da tinta é ótima, mas depois de 39 copias de alta qualidade impressora acusa baixo nível de tinta! mas isso é uma característica da hp apenas 2ml de tinta!.",14 ago. 2023,2025-06-15 04:52:48
+73,8,Avaliação 5 de 5,Parece bom.,19 mai. 2023,2025-06-15 04:52:50
+74,8,Avaliação 4 de 5,Produto é original porém a durabilidade é muito pouca.,04 mai. 2024,2025-06-15 04:52:52
+75,8,Avaliação 5 de 5,"Nada a declarar, produto com qualidade do fabricante.",13 mar. 2024,2025-06-15 04:52:54
+76,8,Avaliação 4 de 5,"Extremamente caro, mas como uso pouco a impressora então vale a pena. Os cartuchos anteriores a esse duraram 14 meses fazendo poucas impressões.",27 fev. 2024,2025-06-15 04:52:56
+77,8,Avaliação 5 de 5,Gostei funcionou bem.,09 nov. 2023,2025-06-15 04:52:58
+78,8,Avaliação 5 de 5,Muito bom.,18 mai. 2023,2025-06-15 04:53:00
+79,8,Avaliação 5 de 5,Eu bem baladinho bem seguro eu não testei ainda mas eu sei que é bom porque eu já comprei.,19 jun. 2024,2025-06-15 04:53:02
+80,8,Avaliação 5 de 5,Podem comprar sem medo. Funciona perfeitamente. Novo. Lacrado. Muito bom.,11 mai. 2024,2025-06-15 04:53:05
+81,9,Avaliação 5 de 5,Produto ótimo daniel instalação recomendo.,13 jul. 2024,2025-06-15 04:53:15
+82,9,Avaliação 5 de 5,"O produto é elogiado pela sua excelente qualidade e facilidade de instalação, funcionando perfeitamente para fins domésticos. Além disso, o suporte pósvenda é bem avaliado, tornando a experiência de compra satisfatória.",15 fev. 2025,2025-06-15 04:53:17
+83,9,Avaliação 5 de 5,Cartucho para uso corriqueiro.,15 jun. 2024,2025-06-15 04:53:20
+84,9,Avaliação 5 de 5,Muito muito obrigado excelente.,04 nov. 2024,2025-06-15 04:53:22
+85,9,Avaliação 5 de 5,Exelente produto sup indico.,12 fev. 2025,2025-06-15 04:53:24
+86,9,Avaliação 5 de 5,,01 nov. 2024,2025-06-15 04:53:26
+87,9,Avaliação 5 de 5,Só veio errado pedi preto veio colorido mas na precisão irei ficar com esse mesmo.,12 out. 2024,2025-06-15 04:53:28
+88,9,Avaliação 5 de 5,,19 ago. 2024,2025-06-15 04:53:30
+89,9,Avaliação 5 de 5,,15 jul. 2024,2025-06-15 04:53:32
+90,9,Avaliação 5 de 5,Pouca tinta.,15 jul. 2024,2025-06-15 04:53:34
+91,10,Avaliação 5 de 5,,22 out. 2024,2025-06-15 04:53:45
+92,10,Avaliação 5 de 5,Muito bom.,09 jan. 2024,2025-06-15 04:53:47
+93,10,Avaliação 5 de 5,Perfeito 👏🏻👏🏻👏🏻.,29 nov. 2024,2025-06-15 04:53:49
+94,10,Avaliação 4 de 5,Bom produto.,27 nov. 2024,2025-06-15 04:53:51
+95,10,Avaliação 5 de 5,"O produto é satisfatório , porém mesmo sendo xl a quantidade de tinta tendo em vista a limpeza de cabeça pela impressora , se torna pouca tinta.",15 nov. 2024,2025-06-15 04:53:53
+96,10,Avaliação 5 de 5,Top.,15 nov. 2024,2025-06-15 04:53:55
+97,10,Avaliação 5 de 5,"O produto é inquestionável, porém seu preço é algo surreal pela construção em geral de um produto tão simples onerando de forma grandiosa os propósitos do cliente. Valores incompatíveis com seu resultado final. Produto de construção simples com valores agregados muito grandiosos e sem uma justificativa plena que justifique tão alto valor.",25 ago. 2024,2025-06-15 04:53:57
+98,10,Avaliação 5 de 5,Custo desses cartuchos são diferenciados.,06 abr. 2024,2025-06-15 04:53:59
+99,10,Avaliação 5 de 5,Sempre compro esse xl dura bastante.,15 jul. 2023,2025-06-15 04:54:01
+100,10,Avaliação 5 de 5,O produto atendeu minha espectativa.,23 mai. 2023,2025-06-15 04:54:04
+101,11,Avaliação 5 de 5,Dá muitas cópias. Excelentes.,09 mai. 2024,2025-06-15 04:54:14
+102,11,Avaliação 5 de 5,A primeira impressão foi ótima agora vamos ver durabilidade.,05 mai. 2025,2025-06-15 04:54:16
+103,11,Avaliação 5 de 5,"Boa tinta, vale a pena pegar o cartucho xl.",06 jun. 2025,2025-06-15 04:54:18
+104,11,Avaliação 5 de 5,Produto original muito bom.,21 mai. 2025,2025-06-15 04:54:20
+105,11,Avaliação 5 de 5,Produto muito bom. Supre minhas necessidades.,07 out. 2024,2025-06-15 04:54:22
+106,11,Avaliação 4 de 5,Satisfeito.,04 set. 2024,2025-06-15 04:54:24
+107,11,Avaliação 1 de 5,"O cartucho simplesmente não foi reconhecido pela impressora. 🖨️ voltei o cartucho antigo e a impressora reconheceu na hora. Prova que o cartucho que comprei por aqui, está com problema.",22 abr. 2025,2025-06-15 04:54:26
+108,11,Avaliação 3 de 5,Não cheguei a instalar o produto por que não atendeu as minhas expectativas. Devolvi o produto e fui ressarcido sem problemas.,02 set. 2024,2025-06-15 04:54:28
+109,12,Avaliação 5 de 5,"Produto com certeza original , pois a impressora é enjoada e só reconhece cartuchos originais , esse foi colocar e apareceu 100% na tela da impressora.",26 fev. 2025,2025-06-15 04:54:34
+110,12,Avaliação 5 de 5,"A qualidade é ótima, o único porém é que a tinta acaba muito rápido. Tem que ser comprado o xxl se for usar pra impressões/ fotocópias de grande quantidade 15 a 20 folhas.",09 dez. 2024,2025-06-15 04:54:34
+111,12,Avaliação 5 de 5,"Eu sempre indico,muito bom.",15 jun. 2023,2025-06-15 04:54:35
+112,12,Avaliação 5 de 5,Muito bom.,10 abr. 2023,2025-06-15 04:54:35
+113,13,Avaliação 5 de 5,Cartucho original é sempre a melhor opção.,04 jun. 2024,2025-06-15 04:54:43
+114,13,Avaliação 5 de 5,Muito bom sem defeitos grato.,20 mai. 2024,2025-06-15 04:54:45
+115,13,Avaliação 5 de 5,Pouca tinta.,15 jul. 2024,2025-06-15 04:54:47
+116,13,Avaliação 4 de 5,2ml é muito pouco … hp devia por mais tinta.,01 jun. 2025,2025-06-15 04:54:49
+117,13,Avaliação 5 de 5,Pena que são apenas 2ml.,26 jul. 2024,2025-06-15 04:54:52
+118,13,Avaliação 4 de 5,"Preciso de mais tempo para avaliar o produto, principalmente no quesito durabilidade.",19 jun. 2024,2025-06-15 04:54:54
+119,13,Avaliação 5 de 5,"Muito bom, produto de ótima qualidade!.",04 jun. 2024,2025-06-15 04:54:56
+120,13,Avaliação 5 de 5,Produto original.,13 mai. 2025,2025-06-15 04:54:58
+121,13,Avaliação 5 de 5,"Produto bom, só acaba muito rápido 😭.",14 jun. 2025,2025-06-15 04:55:00
+122,13,Avaliação 5 de 5,Vou testar e voltarei.,09 mai. 2025,2025-06-15 04:55:02
+123,14,Avaliação 4 de 5,"Primeira vez q uso. Fiz o teste, boa. Mais na impressora não mostra ela cheia. Consta que está vazio o cartucho.",11 jan. 2025,2025-06-15 04:55:12
+124,14,Avaliação 5 de 5,"Não foi barato, mas é o custo de um cartucho hp.",15 jan. 2025,2025-06-15 04:55:15
+125,14,Avaliação 5 de 5,,25 abr. 2025,2025-06-15 04:55:17
+126,14,Avaliação 5 de 5,Excelente produto !.,19 jan. 2025,2025-06-15 04:55:19
+127,14,Avaliação 5 de 5,Cartuchos excelentes.,14 jun. 2025,2025-06-15 04:55:21
+128,14,Avaliação 5 de 5,"Fiquei satisfeito, produto de qualidade.",20 mai. 2025,2025-06-15 04:55:23
+129,14,Avaliação 5 de 5,Produto não durou nem 3 dias de uso.,18 mai. 2025,2025-06-15 04:55:25
+130,14,Avaliação 5 de 5,Ótimo produto eu recomendo a todos do ml.,14 mai. 2025,2025-06-15 04:55:27
+131,14,Avaliação 5 de 5,Bom.,11 mai. 2025,2025-06-15 04:55:29
+132,14,Avaliação 5 de 5,Bom.,09 mai. 2025,2025-06-15 04:55:31
+133,15,Avaliação 5 de 5,Eu gosto desses cartuchos.,11 jun. 2025,2025-06-15 04:55:37
+134,15,Avaliação 5 de 5,"Conforme especificado, de boa qualidade. Recomendamos.",10 jun. 2025,2025-06-15 04:55:37
+135,15,Avaliação 5 de 5,Funcionamento perfeito!.,01 jun. 2025,2025-06-15 04:55:38
+136,16,Avaliação 5 de 5,Produto ótimo recomendo.,16 mar. 2025,2025-06-15 04:55:46
+137,16,Avaliação 5 de 5,"Produto muito bom, original.",09 jun. 2025,2025-06-15 04:55:48
+138,16,Avaliação 5 de 5,Maravilha.,06 mai. 2025,2025-06-15 04:55:50
+139,16,Avaliação 5 de 5,Muito bom atende as expectativas.,19 abr. 2025,2025-06-15 04:55:52
+140,16,Avaliação 4 de 5,"Produto de otima qualidade. Cartucho com pouca tintas. A sim mesmo, vale a compra.",10 abr. 2025,2025-06-15 04:55:55
+141,16,Avaliação 5 de 5,Produto de boa qualidade!!!.,09 abr. 2025,2025-06-15 04:55:57
+142,16,Avaliação 5 de 5,Ótimo produto.,09 abr. 2025,2025-06-15 04:55:59
+143,16,Avaliação 5 de 5,Muito bom serviu perfeitamente.,02 abr. 2025,2025-06-15 04:56:01
+144,16,Avaliação 5 de 5,Ele é bom porém como eu precisava imprimir cosias de estudo durou uma semana só mas ele aceitou recarga de boa valeu super a pena.,28 mar. 2025,2025-06-15 04:56:03
+145,16,Avaliação 5 de 5,E bom.,26 mar. 2025,2025-06-15 04:56:05
+146,17,Avaliação 5 de 5,Bom 👍.,01 jun. 2025,2025-06-15 04:56:15
+147,17,Avaliação 5 de 5,Otimo.,04 abr. 2025,2025-06-15 04:56:18
+148,17,Avaliação 5 de 5,Otimo.,18 mar. 2025,2025-06-15 04:56:20
+149,17,Avaliação 5 de 5,Tudo certo.,04 fev. 2025,2025-06-15 04:56:22
+150,17,Avaliação 4 de 5,Boa tinta.,19 set. 2024,2025-06-15 04:56:24
+151,17,Avaliação 5 de 5,"Sempre utilizei esse cartucho tinta tricolor 667 hp, pois é muito durável. Nota 100 para hp.",07 set. 2024,2025-06-15 04:56:26
+152,17,Avaliação 5 de 5,Ótimo.,03 set. 2024,2025-06-15 04:56:28
+153,17,Avaliação 5 de 5,Produto de ótima qualidade. Recomendo.,23 ago. 2024,2025-06-15 04:56:30
+154,17,Avaliação 4 de 5,Sim só tem um ponto negativo que seria o valor de um simples cartucho.,01 ago. 2024,2025-06-15 04:56:32
+155,17,Avaliação 5 de 5,Muito rapido.,30 jul. 2024,2025-06-15 04:56:34
+156,18,Avaliação 5 de 5,Cartucho original é sempre a melhor opção.,04 jun. 2024,2025-06-15 04:56:45
+157,18,Avaliação 5 de 5,Muito bom sem defeitos grato.,20 mai. 2024,2025-06-15 04:56:47
+158,18,Avaliação 5 de 5,Pouca tinta.,15 jul. 2024,2025-06-15 04:56:49
+159,18,Avaliação 4 de 5,2ml é muito pouco … hp devia por mais tinta.,01 jun. 2025,2025-06-15 04:56:51
+160,18,Avaliação 5 de 5,Pena que são apenas 2ml.,26 jul. 2024,2025-06-15 04:56:53
+161,18,Avaliação 4 de 5,"Preciso de mais tempo para avaliar o produto, principalmente no quesito durabilidade.",19 jun. 2024,2025-06-15 04:56:55
+162,18,Avaliação 5 de 5,"Muito bom, produto de ótima qualidade!.",04 jun. 2024,2025-06-15 04:56:57
+163,18,Avaliação 5 de 5,Produto original.,13 mai. 2025,2025-06-15 04:56:59
+164,18,Avaliação 5 de 5,"Produto bom, só acaba muito rápido 😭.",14 jun. 2025,2025-06-15 04:57:01
+165,18,Avaliação 5 de 5,Vou testar e voltarei.,09 mai. 2025,2025-06-15 04:57:04
+166,19,Avaliação 5 de 5,Já perdi as contas de quantas vezes já comprei e nunca me apresentou problemas.,29 dez. 2023,2025-06-15 04:57:14
+167,19,Avaliação 5 de 5,Ótimo.,30 jul. 2024,2025-06-15 04:57:16
+168,19,Avaliação 4 de 5,Na compra foi o de 4ml veio de 2ml e ao emprimir 10 páginas comuns em preto e branco o cartucho zerou.,15 jun. 2023,2025-06-15 04:57:18
+169,19,Avaliação 5 de 5,Eu acredito que podia ser mais barato pois só dá umas 180 impressões.,19 set. 2024,2025-06-15 04:57:20
+170,19,Avaliação 5 de 5,"Serve para oque foi feito, não há muito oque elogiar em tinta para impressora. Recomendo a compra pois esse kit dura mais tempo a tinta.",23 nov. 2022,2025-06-15 04:57:22
+171,19,Avaliação 5 de 5,"De qualidade ,já estou usando não tenho o que reclamar,gostei.",21 mai. 2022,2025-06-15 04:57:24
+172,19,Avaliação 5 de 5,,07 fev. 2025,2025-06-15 04:57:27
+173,19,Avaliação 5 de 5,Muito bom obrigado.,21 jan. 2025,2025-06-15 04:57:29
+174,19,Avaliação 5 de 5,Ótimo estou muito feliz com o produto em si atendeu minhas expectativas!.,01 out. 2024,2025-06-15 04:57:31
+175,19,Avaliação 5 de 5,,25 jul. 2024,2025-06-15 04:57:33
+176,20,Avaliação 5 de 5,Eu gosto desses cartuchos.,11 jun. 2025,2025-06-15 04:57:39
+177,20,Avaliação 5 de 5,"Conforme especificado, de boa qualidade. Recomendamos.",10 jun. 2025,2025-06-15 04:57:39
+178,20,Avaliação 5 de 5,Funcionamento perfeito!.,01 jun. 2025,2025-06-15 04:57:39
+179,21,Avaliação 5 de 5,Durabilidade menor do esperado.,12 out. 2023,2025-06-15 04:57:48
+180,21,Avaliação 5 de 5,Top.,07 out. 2024,2025-06-15 04:57:50
+181,21,Avaliação 5 de 5,Produto excelente recomendo.,21 dez. 2024,2025-06-15 04:57:52
+182,21,Avaliação 5 de 5,"O produto funcionou certinho. Por enquanto tudo certo. Nao sei a durabilidade ainda, pois usei poucas vezes.",31 jan. 2024,2025-06-15 04:57:54
+183,21,Avaliação 5 de 5,Muito caro.,20 jan. 2024,2025-06-15 04:57:57
+184,21,Avaliação 4 de 5,Produto com ótimo custo benefício e fácil instalação.,28 jan. 2024,2025-06-15 04:57:59
+185,21,Avaliação 5 de 5,O produto é original reconheceu na hora na minha impressora.,11 mai. 2024,2025-06-15 04:58:01
+186,21,Avaliação 5 de 5,Produto bom a impressora aceitou de primeira. Não sei a durabilidade das tintas. Mas parece ser de ótima qualidade.,21 mar. 2025,2025-06-15 04:58:03
+187,21,Avaliação 5 de 5,Top o produto.,23 fev. 2025,2025-06-15 04:58:05
+188,21,Avaliação 5 de 5,,18 jan. 2025,2025-06-15 04:58:07
+189,22,Avaliação 4 de 5,"Persiste o problema de impressão, uma linha perfeita outra falhada, como já abri os dois cartuchos que comprei, não posso devolver, afinal tentei corrigir achando que fosse falha de um cartucho mas é os 2. Comprei um no mercado local, caro pra burro mas que funciona.",15 jan. 2025,2025-06-15 04:58:17
+190,22,Avaliação 5 de 5,Muito bom a quantidade é como disseram e gostei muito do produto show.,11 nov. 2024,2025-06-15 04:58:19
+191,22,Avaliação 5 de 5,Excelente. Pode comprar sem medo.,04 jan. 2025,2025-06-15 04:58:22
+192,22,Avaliação 5 de 5,Impressão boa.,26 dez. 2024,2025-06-15 04:58:24
+193,22,Avaliação 5 de 5,,27 mai. 2025,2025-06-15 04:58:26
+194,22,Avaliação 5 de 5,"Ótima qualidade. Ainda não instalei mas sei que é confiável pelo qr code, a própria hp confirmou. Espero que renda bastante.",21 fev. 2025,2025-06-15 04:58:28
+195,22,Avaliação 5 de 5,Muito bom.,13 jun. 2025,2025-06-15 04:58:30
+196,22,Avaliação 5 de 5,Produto original.,05 jun. 2025,2025-06-15 04:58:32
+197,22,Avaliação 4 de 5,Só não gostei do preço.,05 jun. 2025,2025-06-15 04:58:34
+198,22,Avaliação 4 de 5,Muito bom.,02 jun. 2025,2025-06-15 04:58:36
+199,23,Avaliação 5 de 5,,10 fev. 2025,2025-06-15 04:58:46
+200,23,Avaliação 5 de 5,,25 set. 2024,2025-06-15 04:58:49
+201,23,Avaliação 4 de 5,Ok obrigado trabalhar imprimir minha filha.,09 jun. 2025,2025-06-15 04:58:51
+202,23,Avaliação 5 de 5,"Produto original, sem defeito.",03 jun. 2025,2025-06-15 04:58:53
+203,23,Avaliação 4 de 5,"Um dos cartuchos não foi aceito pela impressora, que indica que não tem tinta no cartucho colorido.",01 jun. 2025,2025-06-15 04:58:55
+204,23,Avaliação 5 de 5,"Trata-se de ótimo produto, super recomendo.",17 mai. 2025,2025-06-15 04:58:57
+205,23,Avaliação 5 de 5,Ótimo.,04 mai. 2025,2025-06-15 04:58:59
+206,23,Avaliação 5 de 5,Funcionou perfeitamente na minha impressora que estava parada a um tempão.,02 mai. 2025,2025-06-15 04:59:01
+207,23,Avaliação 5 de 5,Produto original muito bom e confiavel.,29 abr. 2025,2025-06-15 04:59:03
+208,23,Avaliação 5 de 5,Muito bom.,23 abr. 2025,2025-06-15 04:59:05
+209,24,Avaliação 5 de 5,Já perdi as contas de quantas vezes já comprei e nunca me apresentou problemas.,29 dez. 2023,2025-06-15 04:59:16
+210,24,Avaliação 5 de 5,Ótimo.,30 jul. 2024,2025-06-15 04:59:18
+211,24,Avaliação 4 de 5,Na compra foi o de 4ml veio de 2ml e ao emprimir 10 páginas comuns em preto e branco o cartucho zerou.,15 jun. 2023,2025-06-15 04:59:20
+212,24,Avaliação 5 de 5,Eu acredito que podia ser mais barato pois só dá umas 180 impressões.,19 set. 2024,2025-06-15 04:59:22
+213,24,Avaliação 5 de 5,"Serve para oque foi feito, não há muito oque elogiar em tinta para impressora. Recomendo a compra pois esse kit dura mais tempo a tinta.",23 nov. 2022,2025-06-15 04:59:24
+214,24,Avaliação 5 de 5,"De qualidade ,já estou usando não tenho o que reclamar,gostei.",21 mai. 2022,2025-06-15 04:59:26
+215,24,Avaliação 5 de 5,,07 fev. 2025,2025-06-15 04:59:28
+216,24,Avaliação 5 de 5,Muito bom obrigado.,21 jan. 2025,2025-06-15 04:59:30
+217,24,Avaliação 5 de 5,Ótimo estou muito feliz com o produto em si atendeu minhas expectativas!.,01 out. 2024,2025-06-15 04:59:32
+218,24,Avaliação 5 de 5,,25 jul. 2024,2025-06-15 04:59:34
+219,25,Avaliação 5 de 5,Produto bom.,31 mai. 2025,2025-06-15 04:59:40
+220,25,Avaliação 5 de 5,Excelente essa não é a primeira compra.,11 jul. 2024,2025-06-15 04:59:40
+221,25,Avaliação 3 de 5,Recomendo aos amigos.,04 mai. 2025,2025-06-15 04:59:40
+222,25,Avaliação 3 de 5,Poderia ser mais barato o cartucho e acho que vem pouca tinta.,02 abr. 2025,2025-06-15 04:59:41
+223,26,Avaliação 5 de 5,Muito bom.,14 jul. 2023,2025-06-15 04:59:49
+224,26,Avaliação 5 de 5,"Funciona bem, dura pouco pela marca, esperava mas eficácia. Não contra.",06 jun. 2024,2025-06-15 04:59:51
+225,26,Avaliação 5 de 5,Ótimo produto.,04 ago. 2023,2025-06-15 04:59:53
+226,26,Avaliação 5 de 5,Muito bom vou comprar mais depois.,13 jun. 2025,2025-06-15 04:59:55
+227,26,Avaliação 5 de 5,"Muito bom, pena que vem pouca tinta, por ser original, mas isso é da hp, as condições da loja são as melhores.",13 jun. 2025,2025-06-15 04:59:57
+228,26,Avaliação 5 de 5,Bom.,31 mai. 2025,2025-06-15 04:59:59
+229,26,Avaliação 5 de 5,"É compatível com o modelo da impressora, excelente, durabilidade, recomendo.",10 mai. 2025,2025-06-15 05:00:01
+230,26,Avaliação 5 de 5,Boa qualidade.,02 mai. 2025,2025-06-15 05:00:03
+231,26,Avaliação 5 de 5,"Ainda não abri, me basiei, na compra anterior excelente.",26 fev. 2025,2025-06-15 05:00:06
+232,26,Avaliação 5 de 5,Ok. Só pensei que seria de 5 ml e não 2 ml como veio. Obrigado.,16 jan. 2025,2025-06-15 05:00:08
+233,27,Avaliação 5 de 5,Já comprei outras vezes e top.,07 mar. 2025,2025-06-15 05:00:18
+234,27,Avaliação 4 de 5,Produto ótimo funciona perfeitamente só o preço que é um pouco alto pra o tempo de uso.,25 fev. 2025,2025-06-15 05:00:20
+235,27,Avaliação 5 de 5,Não testei ainda.,25 mai. 2025,2025-06-15 05:00:22
+236,27,Avaliação 5 de 5,,29 abr. 2025,2025-06-15 05:00:24
+237,27,Avaliação 5 de 5,"Perfeito, funcionou perfeitamente!.",12 jan. 2025,2025-06-15 05:00:26
+238,27,Avaliação 5 de 5,Muito bom recomendo comprar.,24 mai. 2025,2025-06-15 05:00:28
+239,27,Avaliação 5 de 5,"Bom, recomendo são originais mesmo que fazia tempos q não conseguia encontrar!.",08 mai. 2025,2025-06-15 05:00:30
+240,27,Avaliação 4 de 5,"O preço,permite a compra de recarregar. Sai mais barato.",01 mar. 2025,2025-06-15 05:00:32
+241,27,Avaliação 5 de 5,Sempre eu compro e excelente.,26 fev. 2025,2025-06-15 05:00:34
+242,27,Avaliação 5 de 5,Bom.,02 fev. 2025,2025-06-15 05:00:37
+243,28,Avaliação 5 de 5,Otima e rapida.,16 mar. 2025,2025-06-15 05:00:47
+244,28,Avaliação 5 de 5,Bom.,16 dez. 2024,2025-06-15 05:00:49
+245,28,Avaliação 5 de 5,"Ótimo produto, supriu como esperado as minhas necessidades! podem comprar sem medo.",12 jun. 2025,2025-06-15 05:00:51
+246,28,Avaliação 5 de 5,Produto muito bom recomendo.,06 jun. 2025,2025-06-15 05:00:53
+247,28,Avaliação 5 de 5,"Já conheço o produto, é muito bom e o preço estava ótimo.",05 jun. 2025,2025-06-15 05:00:55
+248,28,Avaliação 4 de 5,Produto de qualidade.,25 abr. 2025,2025-06-15 05:00:57
+249,28,Avaliação 5 de 5,Poça tinta.,16 mar. 2025,2025-06-15 05:00:59
+250,28,Avaliação 5 de 5,Ótimo.,04 fev. 2025,2025-06-15 05:01:01
+251,28,Avaliação 5 de 5,Já compro a 3 anos. Otimo.,27 jan. 2025,2025-06-15 05:01:04
+252,28,Avaliação 5 de 5,Recomendo.,27 jan. 2025,2025-06-15 05:01:06
+253,29,Avaliação 5 de 5,Cartuchos de excelente qualidade.,20 jul. 2024,2025-06-15 05:01:16
+254,29,Avaliação 4 de 5,"Não consegui imprimir o que precisava. O cartucho preto não está funcionando. Retirei os lacres, como de costume, para encaixar na impressora. Não funcionou. Recoloquei ambos os cartuchos mas não consegui resolver o problema. A luz de indicação do cartucho preto pisca intermitentemente. Enfim, dois cartuchos novos e a impossibilidade de utilizar minha impressora. Gostaria de saber de existe a possibilidade de uma troca. Aguardo retorno e agradeço antecipadamente.",25 mar. 2025,2025-06-15 05:01:18
+255,29,Avaliação 5 de 5,O produto é bom mas não foi compatível com a minha impressora.,21 ago. 2024,2025-06-15 05:01:20
+256,29,Avaliação 5 de 5,Produto original.,18 ago. 2024,2025-06-15 05:01:23
+257,29,Avaliação 5 de 5,Durou menos do que eu esperava mas funciona pra o que eu preciso 😃.,06 abr. 2025,2025-06-15 05:01:25
+258,29,Avaliação 5 de 5,Ótimo!.,20 ago. 2024,2025-06-15 05:01:27
+259,29,Avaliação 5 de 5,"Por enquanto satisfeita com os cartuchos, minha impressora aceitou na hora e apareceu cheio, espero que dure bem, acredito que o preço é um pouco salgado, poderia ser mais em conta, mas se for oferecer serviço de qualidade vale a pena.",08 jul. 2024,2025-06-15 05:01:29
+260,29,Avaliação 5 de 5,"Os cartuchos de tinta originais são excelentes, mas, não descobri o motivo pelo qual os cartuchos de tinta originais para impressora são tão caros. O valor de dois cartuchos compram uma impressora nova.",21 abr. 2025,2025-06-15 05:01:31
+261,29,Avaliação 4 de 5,Só funcionou o preto.,21 jul. 2024,2025-06-15 05:01:33
+262,29,Avaliação 5 de 5,Tem muito rendimento.,03 jul. 2024,2025-06-15 05:01:35
+263,30,Avaliação 5 de 5,Tudo certo com os meus cartuchos original perfeito adorei e amei❤️❤️🙏👏🏿👏🏿.,02 dez. 2024,2025-06-15 05:01:45
+264,30,Avaliação 5 de 5,,13 jun. 2025,2025-06-15 05:01:47
+265,30,Avaliação 5 de 5,"Ótimos cartuchos, a qualidade da impressão é excelente.",20 mai. 2025,2025-06-15 05:01:50
+266,30,Avaliação 5 de 5,Excelente.,04 mai. 2025,2025-06-15 05:01:52
+267,30,Avaliação 5 de 5,Dentro do padrão.,03 mai. 2025,2025-06-15 05:01:54
+268,30,Avaliação 5 de 5,Gostei.,10 abr. 2025,2025-06-15 05:01:56
+269,30,Avaliação 5 de 5,Execelente.,09 abr. 2025,2025-06-15 05:01:58
+270,30,Avaliação 5 de 5,Super recomendo. Coloquei e logo funcionou super original. Hp nem. Rwclamou.,25 mar. 2025,2025-06-15 05:02:00
+271,30,Avaliação 5 de 5,Funciona como esperado.,21 mar. 2025,2025-06-15 05:02:02
+272,30,Avaliação 5 de 5,Muito boa.,15 mar. 2025,2025-06-15 05:02:04
+273,31,Avaliação 5 de 5,Produto ótimo recomendo.,16 mar. 2025,2025-06-15 05:02:15
+274,31,Avaliação 5 de 5,"Produto muito bom, original.",09 jun. 2025,2025-06-15 05:02:17
+275,31,Avaliação 5 de 5,Maravilha.,06 mai. 2025,2025-06-15 05:02:19
+276,31,Avaliação 5 de 5,Muito bom atende as expectativas.,19 abr. 2025,2025-06-15 05:02:21
+277,31,Avaliação 4 de 5,"Produto de otima qualidade. Cartucho com pouca tintas. A sim mesmo, vale a compra.",10 abr. 2025,2025-06-15 05:02:23
+278,31,Avaliação 5 de 5,Produto de boa qualidade!!!.,09 abr. 2025,2025-06-15 05:02:25
+279,31,Avaliação 5 de 5,Ótimo produto.,09 abr. 2025,2025-06-15 05:02:27
+280,31,Avaliação 5 de 5,Muito bom serviu perfeitamente.,02 abr. 2025,2025-06-15 05:02:29
+281,31,Avaliação 5 de 5,Ele é bom porém como eu precisava imprimir cosias de estudo durou uma semana só mas ele aceitou recarga de boa valeu super a pena.,28 mar. 2025,2025-06-15 05:02:31
+282,31,Avaliação 5 de 5,E bom.,26 mar. 2025,2025-06-15 05:02:34
+283,32,Avaliação 5 de 5,De excelente qualidade.,19 mai. 2024,2025-06-15 05:02:40
+284,33,Avaliação 4 de 5,"Fiquei satisfeito com o cartucho preto, pois conectou perfeitamente. Já o colorido ela não reconheceu, acho que pq veio diferente do preto. Tipo veio com a numeração do modelo diferente um do outro, acho q por isso ela não aceitou.",23 mai. 2023,2025-06-15 05:02:48
+285,33,Avaliação 5 de 5,Meus parabéns produtos ótimo top demais mais.,11 mai. 2023,2025-06-15 05:02:50
+286,33,Avaliação 5 de 5,"Mandei encher os cartuchos velhos mas a qualidade muito inferior além do preto sair falhado, os novos são excelentes a impressora reconheceu na hr já imprimiu a folha de teste, recomendo.",02 set. 2024,2025-06-15 05:02:52
+287,33,Avaliação 5 de 5,,06 jun. 2025,2025-06-15 05:02:54
+288,33,Avaliação 5 de 5,Gosteiii comprarei novamente.,18 mar. 2025,2025-06-15 05:02:56
+289,33,Avaliação 5 de 5,"Produto muito bom, excelente impressão.",08 jun. 2025,2025-06-15 05:02:58
+290,33,Avaliação 5 de 5,Ótimo produto.,25 mai. 2025,2025-06-15 05:03:01
+291,33,Avaliação 4 de 5,Bom.,20 mai. 2025,2025-06-15 05:03:03
+292,33,Avaliação 5 de 5,Muito bom. Excelente custo beneficio.,19 mai. 2025,2025-06-15 05:03:05
+293,33,Avaliação 5 de 5,Ótimo.,04 mai. 2025,2025-06-15 05:03:07
+294,34,Avaliação 5 de 5,Produto original muito bom.,08 mai. 2025,2025-06-15 05:03:13
+295,34,Avaliação 5 de 5,Bom produto original.,08 abr. 2025,2025-06-15 05:03:13
+296,34,Avaliação 5 de 5,Bom.,25 mai. 2024,2025-06-15 05:03:13
+297,34,Avaliação 1 de 5,O cartucho feio seco sem tinta abri para ver estava seco não comprem não recomendo.,26 mar. 2025,2025-06-15 05:03:13
+298,35,Avaliação 4 de 5,O produto reconheceu na minha impressora porém a tinta sai no papel manchado não sei se é problema com a tinta ou o papel.,22 nov. 2024,2025-06-15 05:03:22
+299,35,Avaliação 5 de 5,Muito bom.,27 mai. 2025,2025-06-15 05:03:24
+300,35,Avaliação 5 de 5,Excelente.,29 mar. 2025,2025-06-15 05:03:26
+301,35,Avaliação 5 de 5,Bom produto.,14 mar. 2025,2025-06-15 05:03:28
+302,35,Avaliação 5 de 5,Muito bom.,18 ago. 2024,2025-06-15 05:03:30
+303,35,Avaliação 5 de 5,O produto tem boa qualidade.,01 jul. 2024,2025-06-15 05:03:32
+304,35,Avaliação 5 de 5,Muito bom.,02 jun. 2024,2025-06-15 05:03:34
+305,35,Avaliação 4 de 5,Show.,30 abr. 2024,2025-06-15 05:03:36
+306,35,Avaliação 5 de 5,Minha primeira compra. Gostei por demais.,28 mar. 2024,2025-06-15 05:03:39
+307,36,Avaliação 5 de 5,Show.,17 nov. 2024,2025-06-15 05:03:49
+308,36,Avaliação 5 de 5,"A ser testado, aparentemente é original.",04 nov. 2024,2025-06-15 05:03:51
+309,36,Avaliação 5 de 5,Excelente custo benefício.,23 dez. 2024,2025-06-15 05:03:53
+310,36,Avaliação 5 de 5,Produto de bia qualidade.,14 jun. 2025,2025-06-15 05:03:55
+311,36,Avaliação 5 de 5,Bom produto e original.,07 jun. 2025,2025-06-15 05:03:57
+312,36,Avaliação 5 de 5,Muito bom.,03 jun. 2025,2025-06-15 05:03:59
+313,36,Avaliação 5 de 5,Topzera.,02 jun. 2025,2025-06-15 05:04:01
+314,36,Avaliação 5 de 5,Produto original hp sempre é recomendável.,31 mai. 2025,2025-06-15 05:04:03
+315,36,Avaliação 5 de 5,Ainda estou utilizando. Não apresentou problemas. Não tenho como avaliar melhor.,19 abr. 2025,2025-06-15 05:04:06
+316,36,Avaliação 4 de 5,Atende.,07 abr. 2025,2025-06-15 05:04:08
+317,37,Avaliação 5 de 5,Veio tudo certo cartucho pegou bem na impressora.,05 fev. 2025,2025-06-15 05:04:14
+318,37,Avaliação 5 de 5,Muito bom produto!.,04 abr. 2025,2025-06-15 05:04:14
+319,37,Avaliação 4 de 5,Normal.,14 mar. 2025,2025-06-15 05:04:14
+320,37,Avaliação 5 de 5,Excelente!.,11 dez. 2024,2025-06-15 05:04:14
+321,38,Avaliação 4 de 5,"As tintas duram pouco, mas acredito que seja um problema da hp e não só do produto em si.",13 jun. 2025,2025-06-15 05:04:22
+322,38,Avaliação 5 de 5,"Muito bom,vou voltar a comprar de novo.",29 mai. 2025,2025-06-15 05:04:25
+323,38,Avaliação 5 de 5,Já sou cliente faz tempo.,28 mai. 2025,2025-06-15 05:04:27
+324,38,Avaliação 5 de 5,Excelente!.,16 mai. 2025,2025-06-15 05:04:29
+325,38,Avaliação 5 de 5,Excelente produto.,28 abr. 2025,2025-06-15 05:04:31
+326,38,Avaliação 5 de 5,Funcionando bem.,25 abr. 2025,2025-06-15 05:04:33
+327,38,Avaliação 5 de 5,"Comprei para guardar, mas verifiquei que todos são genuínos. Estou avaliando baseado nos cartuchos serem originais. Pois ainda não utilizei nenhum deles.",21 abr. 2025,2025-06-15 05:04:35
+328,38,Avaliação 5 de 5,Bom material.,14 mar. 2025,2025-06-15 05:04:37
+329,38,Avaliação 5 de 5,Excelente.,16 dez. 2024,2025-06-15 05:04:39
+330,38,Avaliação 5 de 5,Bom.,19 nov. 2024,2025-06-15 05:04:41
+331,39,Avaliação 5 de 5,Original.,21 mai. 2025,2025-06-15 05:04:47
+332,39,Avaliação 4 de 5,Bom.,19 mai. 2025,2025-06-15 05:04:47
+333,39,Avaliação 5 de 5,Custo x benefício: cinco estrelas.,17 out. 2024,2025-06-15 05:04:48
+334,39,Avaliação 5 de 5,Produto original hp com cupom promocional do mercado livre. Recomendo.,14 set. 2024,2025-06-15 05:04:48
+335,39,Avaliação 1 de 5,"Pela 3a vez vem um cartucho seco ou com durabilidade minima. Apesar de aparecer na impressora como cheio, acaba em poucas folhas.",17 nov. 2024,2025-06-15 05:04:48
+336,40,Avaliação 4 de 5,"Persiste o problema de impressão, uma linha perfeita outra falhada, como já abri os dois cartuchos que comprei, não posso devolver, afinal tentei corrigir achando que fosse falha de um cartucho mas é os 2. Comprei um no mercado local, caro pra burro mas que funciona.",15 jan. 2025,2025-06-15 05:04:56
+337,40,Avaliação 5 de 5,Muito bom a quantidade é como disseram e gostei muito do produto show.,11 nov. 2024,2025-06-15 05:04:58
+338,40,Avaliação 5 de 5,Excelente. Pode comprar sem medo.,04 jan. 2025,2025-06-15 05:05:00
+339,40,Avaliação 5 de 5,Impressão boa.,26 dez. 2024,2025-06-15 05:05:02
+340,40,Avaliação 5 de 5,,27 mai. 2025,2025-06-15 05:05:04
+341,40,Avaliação 5 de 5,"Ótima qualidade. Ainda não instalei mas sei que é confiável pelo qr code, a própria hp confirmou. Espero que renda bastante.",21 fev. 2025,2025-06-15 05:05:07
+342,40,Avaliação 5 de 5,Muito bom.,13 jun. 2025,2025-06-15 05:05:09
+343,40,Avaliação 5 de 5,Produto original.,05 jun. 2025,2025-06-15 05:05:11
+344,40,Avaliação 4 de 5,Só não gostei do preço.,05 jun. 2025,2025-06-15 05:05:13
+345,40,Avaliação 4 de 5,Muito bom.,02 jun. 2025,2025-06-15 05:05:15
+346,41,Avaliação 5 de 5,"Produto com certeza original , pois a impressora é enjoada e só reconhece cartuchos originais , esse foi colocar e apareceu 100% na tela da impressora.",26 fev. 2025,2025-06-15 05:05:21
+347,41,Avaliação 5 de 5,"A qualidade é ótima, o único porém é que a tinta acaba muito rápido. Tem que ser comprado o xxl se for usar pra impressões/ fotocópias de grande quantidade 15 a 20 folhas.",09 dez. 2024,2025-06-15 05:05:21
+348,41,Avaliação 5 de 5,"Eu sempre indico,muito bom.",15 jun. 2023,2025-06-15 05:05:21
+349,41,Avaliação 5 de 5,Muito bom.,10 abr. 2023,2025-06-15 05:05:21
+350,42,Avaliação 5 de 5,Só não imprime a quantidade descrita.,02 ago. 2024,2025-06-15 05:05:30
+351,42,Avaliação 5 de 5,"Perfeito, ótimo preço.",14 jun. 2024,2025-06-15 05:05:32
+352,42,Avaliação 5 de 5,Estes cartuchos estavam em condições. Porem na minha compra anterior quando foram instalados a tinta estava seca e não funcionaram.,22 nov. 2024,2025-06-15 05:05:34
+353,42,Avaliação 5 de 5,A tinta é muito cara. A reposição vale quase uma impressora nova.,03 out. 2024,2025-06-15 05:05:36
+354,42,Avaliação 4 de 5,"O cartucho colorido veio com problema na cor vermelha, não consigo limpar.",01 set. 2024,2025-06-15 05:05:38
+355,42,Avaliação 5 de 5,"Muito bom, correspondeu com minhas expectativas, recomendo!!!.",31 jul. 2024,2025-06-15 05:05:40
+356,42,Avaliação 5 de 5,"Cartucho ótimo, boa qualidade super indico!.",08 jun. 2024,2025-06-15 05:05:42
+357,42,Avaliação 5 de 5,"Fiz duas impressões e o cartucho preto acabou, com duas folhas,anormal.",17 fev. 2025,2025-06-15 05:05:44
+358,42,Avaliação 5 de 5,,14 nov. 2024,2025-06-15 05:05:47
+359,42,Avaliação 5 de 5,,25 jul. 2024,2025-06-15 05:05:49
+360,43,Avaliação 5 de 5,,03 fev. 2025,2025-06-15 05:06:00
+361,43,Avaliação 5 de 5,Top.,16 jun. 2024,2025-06-15 05:06:02
+362,43,Avaliação 5 de 5,Satisfeita.,27 mai. 2025,2025-06-15 05:06:04
+363,43,Avaliação 5 de 5,Atendeu todas as expectativas prometidas.,21 mai. 2025,2025-06-15 05:06:06
+364,43,Avaliação 4 de 5,"É bom fácil de instalar porém acaba mais rápido que pudim na geladeira, valor meiofoda mais é boa 👍🏽.",13 abr. 2025,2025-06-15 05:06:08
+365,43,Avaliação 5 de 5,Ótimo.,08 abr. 2025,2025-06-15 05:06:10
+366,43,Avaliação 5 de 5,"Produto de qualidade nota dez, vou comprar sempre.",23 mar. 2025,2025-06-15 05:06:12
+367,43,Avaliação 5 de 5,"Produto original, ótima qualidade, mas cuidado na instalação, a impressora demora para reconhecer o novo cartucho.",29 dez. 2024,2025-06-15 05:06:14
+368,43,Avaliação 5 de 5,Bom.,13 dez. 2024,2025-06-15 05:06:16
+369,43,Avaliação 5 de 5,Perfeito.,12 jun. 2024,2025-06-15 05:06:18
+370,44,Avaliação 5 de 5,A. Melhor marca que existe hp.,15 out. 2024,2025-06-15 05:06:29
+371,44,Avaliação 5 de 5,Preço justo e qualidade superior.,17 set. 2024,2025-06-15 05:06:31
+372,44,Avaliação 5 de 5,Excelente produto original.,28 mai. 2025,2025-06-15 05:06:33
+373,44,Avaliação 5 de 5,Muito bom.,02 mai. 2025,2025-06-15 05:06:35
+374,44,Avaliação 5 de 5,"Muito bom, gostei!.",16 abr. 2025,2025-06-15 05:06:37
+375,44,Avaliação 5 de 5,Cartucho original é originalmente excelente.,08 mar. 2025,2025-06-15 05:06:40
+376,44,Avaliação 5 de 5,Muito bom.,08 mar. 2025,2025-06-15 05:06:42
+377,44,Avaliação 5 de 5,Fiz no máximo 20 impressões em modo econômico e a tinta acabou. Não compro mais.,19 fev. 2025,2025-06-15 05:06:44
+378,44,Avaliação 5 de 5,Ótimo.,19 fev. 2025,2025-06-15 05:06:46
+379,44,Avaliação 5 de 5,Boa compra.,05 fev. 2025,2025-06-15 05:06:48
+380,45,Avaliação 5 de 5,"O produto é excelente, de ótima qualidade (hp), mas a quantidade do cartucho de tinta, de apenas 2 ml é muito insuficiente. Creio que colocar (+) 1 ml de tinta já ajudaria bastante.",18 set. 2024,2025-06-15 05:06:58
+381,45,Avaliação 5 de 5,Primo custo benefício.,01 fev. 2025,2025-06-15 05:07:01
+382,45,Avaliação 5 de 5,Funcionou perfeitamente.,25 jan. 2025,2025-06-15 05:07:03
+383,45,Avaliação 5 de 5,"Compro sempre essa marca, porque tem uma boa impressão, eu acho assim, o que é bom nunca se muda a marca.",26 dez. 2024,2025-06-15 05:07:05
+384,45,Avaliação 5 de 5,Boa qualidade.,11 nov. 2024,2025-06-15 05:07:07
+385,45,Avaliação 5 de 5,"Excelente, recomendo.",14 out. 2024,2025-06-15 05:07:09
+386,45,Avaliação 5 de 5,"Produto original, muito bom.",14 out. 2024,2025-06-15 05:07:11
+387,45,Avaliação 1 de 5,Um lixo! deve ser falsificado de pessima qualidade.,15 out. 2024,2025-06-15 05:07:13
+388,45,Avaliação 1 de 5,"Não dura nada, diz que imprime 100 folhas, não chega nem a 60.",01 jan. 2025,2025-06-15 05:07:15
+389,46,Avaliação 5 de 5,"Eu achei o produto bom, porém quando fui carregar me disseram que era falsificado, mas pra mim funcionou bem.",20 ago. 2024,2025-06-15 05:07:25
+390,46,Avaliação 4 de 5,"Não é tão durável assim,mas é melhor que comprar a de 2 ml.",14 jun. 2024,2025-06-15 05:07:28
+391,46,Avaliação 5 de 5,Melhor cartucho. Nao compre outra.,01 jun. 2025,2025-06-15 05:07:30
+392,46,Avaliação 4 de 5,Não dura como anunciado.,22 mar. 2025,2025-06-15 05:07:32
+393,46,Avaliação 4 de 5,Não sei se vem a quantidade de tinta descrito.,17 mar. 2025,2025-06-15 05:07:34
+394,46,Avaliação 5 de 5,Ótimo produto.,05 mar. 2025,2025-06-15 05:07:36
+395,46,Avaliação 5 de 5,Top.,26 fev. 2025,2025-06-15 05:07:38
+396,46,Avaliação 5 de 5,Gostei do produto.,21 fev. 2025,2025-06-15 05:07:40
+397,46,Avaliação 4 de 5,Atendeu o necessário.,20 fev. 2025,2025-06-15 05:07:42
+398,46,Avaliação 4 de 5,Produto muito bom.,20 fev. 2025,2025-06-15 05:07:44

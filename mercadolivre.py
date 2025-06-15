@@ -4,7 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.common import NoSuchElementException, ElementNotInteractableException
 
-from database import save_url, save_product, save_review
+from database import save_url, save_product, save_review, query
 import time
 
 
@@ -122,7 +122,6 @@ def scrap_product(url, driver):
         for tr in trs:
             th = tr.find_element(By.TAG_NAME, 'th').text.lower()
             td = tr.find_element(By.TAG_NAME, 'td').text
-            print('th: td', f"{th}: {td}")
 
             if th == 'marca':
                 brand = td
@@ -167,7 +166,6 @@ def scrap_comments(id, url, limit, driver):
 
         driver.implicitly_wait(10)
 
-        #show_more = driver.find_element(By.CSS_SELECTOR, "button.show-more-click")
         show_more = driver.execute_script("return document.querySelector('button.show-more-click')")
         if (show_more):
             driver.execute_script("arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });", show_more)
@@ -220,7 +218,7 @@ def scrap_comments(id, url, limit, driver):
                     print('-----------------------------------')
                     save_review(id, rating, review, review_date)
 
-
+        query(f"update products_data set comments_scraped = 1 where id = {id}" )
 
     except Exception as e:
         print(e)

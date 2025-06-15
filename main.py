@@ -20,7 +20,7 @@ def list(produto, driver, limit = 5):
 
 
 def product(driver, limit = 10):
-    products_url = database.query(f"select * from products_url limit {limit}")
+    products_url = database.query(f"select * from products_url where scraped = 0 limit {limit}")
 
     for product_url in products_url:
         try:
@@ -36,7 +36,7 @@ def comments(driver, limit = None, comments_limit = 0):
     if limit:
         limit = f"limit {limit}"
 
-    products_data = database.query(f"select * from products_data {limit}")
+    products_data = database.query(f"select * from products_data where comments_scraped = 0 {limit}")
     for product_data in products_data:
         print(product_data[2])
         scrap_comments(product_data[0], product_data[2], comments_limit, driver)
@@ -68,5 +68,8 @@ if __name__ == "__main__":
     list(produto, driver, paginas)
     product(driver, produtos)
     comments(driver, produtos, comentarios)
+
+    database.exportar_tabelas()
+
 
     driver.quit()

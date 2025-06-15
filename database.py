@@ -1,4 +1,5 @@
 import sqlite3
+import pandas as pd
 
 def create_db():
     """
@@ -149,4 +150,17 @@ def query(sql):
       print(f"Erro ao tentar executar a query: {e}")
     finally:
         conn.close()
-        
+
+
+def exportar_tabelas(path = 'outputs'):
+    conn = sqlite3.connect("mercadolivre.db")
+    products_url = pd.read_sql_query("select * from products_url", conn)
+    products_data = pd.read_sql_query("select * from products_data", conn)
+    products_review = pd.read_sql_query("select * from products_review", conn)
+
+    products_url.to_csv(path + "/products_url.csv", index=False)
+    products_data.to_csv(path + "/products_data.csv", index=False)
+    products_review.to_csv(path + "/products_review.csv", index=False)
+
+    print(f"CSVs criados na pasta: {path}")
+
