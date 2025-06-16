@@ -25,7 +25,7 @@ Este projeto automatiza a coleta de dados de produtos e avaliações do Mercado 
    python -m venv venv
    # Linux / Mac
    source venv/bin/activate
-   # Windows
+   # Windows CMD
    venv\Scripts\activate
    ```
 
@@ -34,12 +34,6 @@ Este projeto automatiza a coleta de dados de produtos e avaliações do Mercado 
    ```bash
    pip install -r requirements.txt
    ```
-
-4. Baixe o ChromeDriver:
-
-   - Acesse [https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-   - Baixe a versão compatível com seu Chrome
-   - Descompacte e adicione o executável ao PATH do sistema
 
 ## Configuração
 

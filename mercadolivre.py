@@ -8,7 +8,7 @@ from database import save_url, save_product, save_review, query
 import time
 
 
-def scrap_list(produto, url, driver):
+def scrap_list(produto, url, driver, counter, pages):
     try:
         driver.get(url)
         time.sleep(2)  # precisamos utilizar o sleep por 2 motivos: 1- Para não ser bloqueado; 2- Carregamentos dinâmicos que o Selenium não consegue recuperar
@@ -18,7 +18,7 @@ def scrap_list(produto, url, driver):
         termos = driver.find_elements(By.CLASS_NAME, "cookie-consent-banner-opt-out__action--key-accept")
         if termos:
             termos[0].click()
-        time.sleep(1)
+            time.sleep(1)
 
         ol = driver.find_element(By.CSS_SELECTOR, "ol.ui-search-layout")
         wait = WebDriverWait(driver, 10)
@@ -43,7 +43,7 @@ def scrap_list(produto, url, driver):
         wait = WebDriverWait(driver, 10)
         wait.until(lambda _: next.is_displayed())
 
-        if next:
+        if next and counter < pages - 1:
             driver.execute_script("arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });", next)
             driver.execute_script("setTimeout(function() { document.querySelector('.andes-pagination__button--next a').click(); }, 3000);")
 
@@ -62,6 +62,16 @@ def scrap_list(produto, url, driver):
 
 def scrap_product(url, driver):
     try:
+        product_review_rating = ''
+        product_review_amount = ''
+        brand = ''
+        product_line = ''
+        model = ''
+        sales_format = ''
+        volume_total = ''
+        page_yield = ''
+        cartridge_type = ''
+
         driver.get(url)
         time.sleep(3)
 
@@ -76,7 +86,9 @@ def scrap_product(url, driver):
         url = driver.current_url
         meta_tag_price = driver.find_element("xpath", '//meta[@property="og:title"]')
         og_title = meta_tag_price.get_attribute("content")
-        title, price = og_title.split(' - ')
+        og_title_splited = og_title.split(' - ')
+        title = og_title_splited[0]
+        price = og_title_splited[-1]
 
         if not price.split(','):
             price = f"{price},00"
@@ -102,14 +114,6 @@ def scrap_product(url, driver):
             description = ''
 
         # recuperando marca, linha, modelo e rendimento (se tiver)
-        brand = ''
-        product_line = ''
-        model = ''
-        sales_format = ''
-        volume_total = ''
-        page_yield = ''
-        cartridge_type = ''
-
         more_carac = driver.find_elements(By.CSS_SELECTOR, "button.ui-vpp-highlighted-specs__striped-collapsed__action")
         if more_carac:
             driver.execute_script("arguments[0].scrollIntoView({ behavior: 'smooth', block: 'center' });", more_carac[0])

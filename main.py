@@ -8,15 +8,18 @@ from selenium.webdriver.edge.options import Options
 import time, random
 import database
 
-def list(produto, driver, limit = 5):
-    url = f"https://lista.mercadolivre.com.br/{quote(produto)}"
-    page = scrap_list(produto, url, driver)
-
+def list(produto, driver, pages = 1):
     counter = 0
-    while page and (counter < limit):
-        counter = counter + 1
-        page = scrap_list(produto, page, driver)
+
+    url = f"https://lista.mercadolivre.com.br/{quote(produto)}"
+    page = scrap_list(produto, url, driver, counter, pages)
+
+    for counter in range(0, pages):
+        page = scrap_list(produto, page, driver, counter, pages)
         time.sleep(random.uniform(3.0, 4.0))  # para evitar ser identificado como scrap]
+
+        if (page == False):
+            break
 
 
 def product(driver, limit = 10):
@@ -29,8 +32,9 @@ def product(driver, limit = 10):
             save_product(product_url[0], url, title, price, product_review_rating, product_review_amount, seller, description, brand, product_line, model, sales_format, volume_total, page_yield, cartridge_type)
             database.query(f"update products_url set scraped = 1 where id = {product_url[0]}")
         except Exception as e:
-            print(e)
-            continue
+            raise(3)
+            #print(e)
+            #continue
 
 def comments(driver, limit = None, comments_limit = 0):
     if limit:
@@ -70,6 +74,5 @@ if __name__ == "__main__":
     comments(driver, produtos, comentarios)
 
     database.exportar_tabelas()
-
 
     driver.quit()
